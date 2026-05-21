@@ -1,0 +1,54 @@
+{
+  "regions": [
+    {
+      "name": "Europe",
+      "metrics": {
+        "businessImpact": { "value": 94, "status": "excellent" },
+        "operationalExcellence": { "value": 91, "status": "excellent" },
+        "innovation": { "value": 88, "status": "good" },
+        "riskCompliance": { "value": 96, "status": "excellent" },
+        "partnershipHealth": { "value": 90, "status": "excellent" }
+      },
+      "overallStatus": "excellent"
+    },
+    {
+      "name": "Americas",
+      "metrics": {
+        "businessImpact": { "value": 78, "status": "good" },
+        "operationalExcellence": { "value": 72, "status": "good" },
+        "innovation": { "value": 65, "status": "warning" },
+        "riskCompliance": { "value": 82, "status": "good" },
+        "partnershipHealth": { "value": 75, "status": "good" }
+      },
+      "overallStatus": "good"
+    },
+    {
+      "name": "India (CoE)",
+      "metrics": {
+        "businessImpact": { "value": 85, "status": "good" },
+        "operationalExcellence": { "value": 88, "status": "good" },
+        "innovation": { "value": 92, "status": "excellent" },
+        "riskCompliance": { "value": 79, "status": "good" },
+        "partnershipHealth": { "value": 84, "status": "good" }
+      },
+      "overallStatus": "good"
+    }
+  ],
+  "radarData": {
+    "dimensions": ["Efficiency", "Adoption", "Security", "Innovation", "Satisfaction"],
+    "regions": [
+      {
+        "name": "Europe",
+        "data": [92, 88, 95, 85, 90]
+      },
+      {
+        "name": "Americas",
+        "data": [75, 70, 80, 65, 72]
+      },
+      {
+        "name": "India (CoE)",
+        "data": [82, 85, 78, 90, 80]
+      }
+    ]
+  }
+}

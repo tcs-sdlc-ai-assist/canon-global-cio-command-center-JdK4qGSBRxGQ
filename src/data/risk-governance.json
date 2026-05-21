@@ -1,0 +1,63 @@
+{
+  "metrics": [
+    {
+      "id": "compliance-score",
+      "title": "Compliance Score",
+      "value": 96.2,
+      "unit": "percent",
+      "suffix": "%",
+      "trend": { "direction": "up", "percentage": 1.2, "label": "vs last quarter" },
+      "insight": "GDPR and SOX compliance maintained at highest levels.",
+      "category": "risk"
+    },
+    {
+      "id": "cybersecurity-maturity",
+      "title": "Cybersecurity Maturity",
+      "value": 87,
+      "suffix": "/100",
+      "trend": { "direction": "up", "percentage": 4.3, "label": "vs last quarter" },
+      "insight": "NIST framework implementation at 87% maturity.",
+      "category": "risk"
+    },
+    {
+      "id": "data-governance",
+      "title": "Data Governance Score",
+      "value": 94.8,
+      "unit": "percent",
+      "suffix": "%",
+      "trend": { "direction": "up", "percentage": 2.8, "label": "vs last quarter" },
+      "insight": "Data classification coverage expanded to 94.8% of all datasets.",
+      "category": "risk"
+    },
+    {
+      "id": "bc-readiness",
+      "title": "Business Continuity Readiness",
+      "value": 99.1,
+      "unit": "percent",
+      "suffix": "%",
+      "trend": { "direction": "stable", "percentage": 0, "label": "vs last quarter" },
+      "insight": "All regions passed DR testing with RTO < 4 hours.",
+      "category": "risk"
+    },
+    {
+      "id": "vendor-risk",
+      "title": "Vendor Risk Score",
+      "value": 87.4,
+      "unit": "percent",
+      "suffix": "%",
+      "trend": { "direction": "up", "percentage": 3.5, "label": "vs last quarter" },
+      "insight": "Top 20 vendors reassessed; 3 vendors moved to enhanced monitoring.",
+      "category": "risk"
+    },
+    {
+      "id": "data-sovereignty",
+      "title": "Data Sovereignty",
+      "value": 94.8,
+      "unit": "percent",
+      "suffix": "%",
+      "trend": { "direction": "up", "percentage": 1.5, "label": "vs last quarter" },
+      "insight": "EU data residency requirements fully met across all systems.",
+      "category": "risk"
+    }
+  ]
+}

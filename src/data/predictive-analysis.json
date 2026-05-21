@@ -1,0 +1,153 @@
+{
+  "forecastMetrics": [
+    {
+      "id": "forecast-revenue-growth",
+      "title": "Projected IT-Enabled Revenue Growth",
+      "currentValue": 2.4,
+      "currentUnit": "billion",
+      "currentPrefix": "€",
+      "projectedValue": 3.1,
+      "projectedUnit": "billion",
+      "projectedPrefix": "€",
+      "confidence": 85,
+      "trend": "up",
+      "insight": "Based on current trajectory and planned digital initiatives, revenue attribution is projected to reach €3.1B by Q4 2025, driven by APAC expansion and AI-driven sales optimization."
+    },
+    {
+      "id": "forecast-cost-avoidance",
+      "title": "Projected Cost Avoidance",
+      "currentValue": 184,
+      "currentUnit": "million",
+      "currentPrefix": "€",
+      "projectedValue": 250,
+      "projectedUnit": "million",
+      "projectedPrefix": "€",
+      "confidence": 78,
+      "trend": "up",
+      "insight": "Automation and cloud optimization initiatives are expected to increase cost avoidance to €250M annually, with RPA and AIOps contributing the largest share."
+    },
+    {
+      "id": "forecast-innovation-roi",
+      "title": "Projected Innovation ROI",
+      "currentValue": 285,
+      "currentUnit": "percent",
+      "currentSuffix": "%",
+      "projectedValue": 340,
+      "projectedUnit": "percent",
+      "projectedSuffix": "%",
+      "confidence": 72,
+      "trend": "up",
+      "insight": "Innovation ROI is forecast to reach 340% as AI/ML models scale across supply chain and customer service domains, with quantum computing pilots beginning to show early returns."
+    },
+    {
+      "id": "forecast-ai-models",
+      "title": "Projected AI/ML Models in Production",
+      "currentValue": 47,
+      "projectedValue": 85,
+      "confidence": 80,
+      "trend": "up",
+      "insight": "With the AI Center of Excellence expansion, production AI/ML models are projected to grow to 85 by end of year, focusing on computer vision, NLP, and predictive analytics."
+    },
+    {
+      "id": "forecast-cybersecurity",
+      "title": "Projected Cybersecurity Maturity",
+      "currentValue": 87,
+      "currentSuffix": "/100",
+      "projectedValue": 94,
+      "projectedSuffix": "/100",
+      "confidence": 88,
+      "trend": "up",
+      "insight": "Zero-trust architecture rollout and enhanced threat detection are expected to push cybersecurity maturity to 94/100, exceeding industry benchmarks."
+    },
+    {
+      "id": "forecast-system-availability",
+      "title": "Projected System Availability",
+      "currentValue": 99.97,
+      "currentUnit": "percent",
+      "currentSuffix": "%",
+      "projectedValue": 99.99,
+      "projectedUnit": "percent",
+      "projectedSuffix": "%",
+      "confidence": 92,
+      "trend": "up",
+      "insight": "Infrastructure redundancy upgrades and AI-driven incident prevention are forecast to achieve 99.99% availability, representing near-zero downtime."
+    },
+    {
+      "id": "forecast-digital-transformation",
+      "title": "Projected Digital Transformation Progress",
+      "currentValue": 76,
+      "currentUnit": "percent",
+      "currentSuffix": "%",
+      "projectedValue": 92,
+      "projectedUnit": "percent",
+      "projectedSuffix": "%",
+      "confidence": 82,
+      "trend": "up",
+      "insight": "Cloud migration and legacy modernization efforts are on track to reach 92% completion, with Tier 1 applications fully migrated by Q3 2025."
+    },
+    {
+      "id": "forecast-sustainability",
+      "title": "Projected Sustainability Index",
+      "currentValue": 82.1,
+      "currentUnit": "percent",
+      "currentSuffix": "%",
+      "projectedValue": 90.5,
+      "projectedUnit": "percent",
+      "projectedSuffix": "%",
+      "confidence": 76,
+      "trend": "up",
+      "insight": "Data center efficiency programs and green IT initiatives are projected to raise the sustainability index to 90.5%, with carbon footprint reduction exceeding 35% year-over-year."
+    }
+  ],
+  "scenarioAnalysis": {
+    "optimistic": {
+      "label": "Optimistic",
+      "description": "Accelerated digital transformation with full AI/ML adoption across all business units",
+      "revenueImpact": "+18%",
+      "costSavings": "€320M",
+      "probability": 25
+    },
+    "baseline": {
+      "label": "Baseline",
+      "description": "Current trajectory maintained with planned initiatives on schedule",
+      "revenueImpact": "+12%",
+      "costSavings": "€250M",
+      "probability": 55
+    },
+    "conservative": {
+      "label": "Conservative",
+      "description": "Delayed initiatives and budget constraints limiting transformation pace",
+      "revenueImpact": "+7%",
+      "costSavings": "€180M",
+      "probability": 20
+    }
+  },
+  "keyRisks": [
+    {
+      "id": "risk-1",
+      "description": "Talent shortage in AI/ML and cybersecurity domains may delay projected timelines",
+      "impact": "high",
+      "mitigation": "Accelerate upskilling programs and expand partnerships with universities"
+    },
+    {
+      "id": "risk-2",
+      "description": "Regulatory changes in data sovereignty could impact cloud migration plans",
+      "impact": "medium",
+      "mitigation": "Proactive engagement with regulatory bodies and flexible architecture design"
+    },
+    {
+      "id": "risk-3",
+      "description": "Economic uncertainty may reduce innovation budget allocation",
+      "impact": "medium",
+      "mitigation": "Focus on high-ROI initiatives and build business cases with clear value metrics"
+    },
+    {
+      "id": "risk-4",
+      "description": "Vendor lock-in risk with strategic partners could limit flexibility",
+      "impact": "low",
+      "mitigation": "Multi-vendor strategy and open standards adoption in architecture decisions"
+    }
+  ],
+  "generatedAt": "2025-01-15T12:00:00Z",
+  "modelVersion": "1.0.0"
+}

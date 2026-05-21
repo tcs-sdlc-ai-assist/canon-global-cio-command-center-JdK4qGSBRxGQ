@@ -1,0 +1,39 @@
+{
+  "metrics": [
+    {
+      "id": "revenue-attribution",
+      "title": "Revenue Attribution",
+      "value": 2.4,
+      "unit": "billion",
+      "prefix": "€",
+      "trend": { "direction": "up", "percentage": 15.3, "label": "vs last quarter" },
+      "insight": "Digital channels now contribute 42% of total attributed revenue.",
+      "category": "business"
+    },
+    {
+      "id": "cost-avoidance",
+      "title": "Cost Avoidance",
+      "value": 184,
+      "unit": "million",
+      "prefix": "€",
+      "trend": { "direction": "up", "percentage": 8.7, "label": "vs last quarter" },
+      "insight": "Automation initiatives drove €24M in additional savings this quarter.",
+      "category": "business"
+    },
+    {
+      "id": "innovation-roi",
+      "title": "Innovation ROI",
+      "value": 285,
+      "unit": "percent",
+      "suffix": "%",
+      "trend": { "direction": "up", "percentage": 22.1, "label": "vs last quarter" },
+      "insight": "AI/ML investments show highest ROI at 340%.",
+      "category": "business"
+    }
+  ],
+  "valueCreationChart": {
+    "categories": ["Revenue Generation", "Cost Avoidance", "Process Efficiency", "Risk Mitigation", "Innovation"],
+    "values": [1200, 840, 560, 320, 480],
+    "unit": "€ millions"
+  }
+}

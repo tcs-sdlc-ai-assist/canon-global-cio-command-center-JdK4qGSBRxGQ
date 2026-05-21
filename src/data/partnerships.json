@@ -1,0 +1,79 @@
+{
+  "metrics": [
+    {
+      "id": "service-excellence",
+      "title": "Service Excellence",
+      "value": 98.7,
+      "unit": "percent",
+      "suffix": "%",
+      "trend": { "direction": "up", "percentage": 0.5, "label": "vs last quarter" },
+      "insight": "SLA achievement consistently above 98.5% for 8 consecutive quarters.",
+      "category": "partnership"
+    },
+    {
+      "id": "partnership-roi",
+      "title": "Partnership ROI",
+      "value": 170,
+      "unit": "percent",
+      "suffix": "%",
+      "trend": { "direction": "up", "percentage": 12.3, "label": "vs last quarter" },
+      "insight": "TCS partnership delivered €420M in business value over 3 years.",
+      "category": "partnership"
+    },
+    {
+      "id": "innovation-velocity",
+      "title": "Innovation Velocity",
+      "value": 67,
+      "unit": "percent",
+      "suffix": "%",
+      "trend": { "direction": "up", "percentage": 8.1, "label": "vs last quarter" },
+      "insight": "Joint innovation lab delivered 4 MVPs this quarter.",
+      "category": "partnership"
+    },
+    {
+      "id": "global-delivery",
+      "title": "Global Delivery Excellence",
+      "value": 94.2,
+      "unit": "percent",
+      "suffix": "%",
+      "trend": { "direction": "up", "percentage": 2.3, "label": "vs last quarter" },
+      "insight": "On-time delivery improved with new agile pod structure.",
+      "category": "partnership"
+    }
+  ],
+  "timeline": {
+    "years": [2021, 2022, 2023, 2024, 2025],
+    "investment": [120, 150, 180, 210, 250],
+    "valueDelivered": [80, 140, 220, 310, 420],
+    "unit": "€ millions"
+  },
+  "aiSummary": {
+    "performanceExcellence": {
+      "title": "Performance Excellence",
+      "narrative": "TCS partnership demonstrates strong ROI of 170% with consistent SLA achievement at 98.7%. Total investment of €250M has generated €420M in business value. Global delivery footprint expanded to 12 centers with 94.2% on-time delivery.",
+      "metrics": {
+        "roi": "170%",
+        "sla": "98.7%",
+        "investment": "€250M",
+        "value": "€420M",
+        "footprint": "12 centers"
+      }
+    },
+    "expansionOpportunity": {
+      "title": "Expansion Opportunity",
+      "narrative": "Joint AI/ML initiatives show 340% ROI potential. SOC automation could reduce incident response time by 60%. Contract renegotiation in Q2 2025 could unlock €50M in additional value through volume discounts and outcome-based pricing.",
+      "metrics": {
+        "aiMl": "340% ROI potential",
+        "soc": "60% faster response",
+        "automation": "€12M savings",
+        "contractTerms": "Q2 2025 renewal",
+        "expectedValue": "€50M"
+      }
+    },
+    "actionChips": [
+      { "id": "pa-1", "label": "Business Case", "icon": "📋" },
+      { "id": "pa-2", "label": "Contract Strategy", "icon": "📝" },
+      { "id": "pa-3", "label": "Board Approval", "icon": "✅" }
+    ]
+  }
+}

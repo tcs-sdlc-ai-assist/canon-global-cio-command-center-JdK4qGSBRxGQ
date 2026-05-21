@@ -1,0 +1,65 @@
+{
+  "metrics": [
+    {
+      "id": "ai-models-production",
+      "title": "AI/ML Models in Production",
+      "value": 47,
+      "trend": { "direction": "up", "percentage": 23.7, "label": "vs last quarter" },
+      "insight": "12 new models deployed this quarter across supply chain and customer service.",
+      "category": "innovation"
+    },
+    {
+      "id": "innovation-pipeline-value",
+      "title": "Innovation Pipeline Value",
+      "value": 47.3,
+      "unit": "million",
+      "prefix": "€",
+      "trend": { "direction": "up", "percentage": 18.2, "label": "vs last quarter" },
+      "insight": "Pipeline includes 8 projects in validation phase with €12M combined value.",
+      "category": "innovation"
+    },
+    {
+      "id": "patent-applications",
+      "title": "Patent Applications",
+      "value": 23,
+      "trend": { "direction": "up", "percentage": 35.3, "label": "vs last quarter" },
+      "insight": "AI/ML related patents account for 60% of new filings.",
+      "category": "innovation"
+    },
+    {
+      "id": "ai-maturity",
+      "title": "AI Maturity",
+      "value": 7.2,
+      "suffix": "/10",
+      "trend": { "direction": "up", "percentage": 8.5, "label": "vs last quarter" },
+      "insight": "AI Center of Excellence established with 85 data scientists.",
+      "category": "innovation"
+    },
+    {
+      "id": "skills-readiness",
+      "title": "Skills Readiness",
+      "value": 8.4,
+      "suffix": "/10",
+      "trend": { "direction": "up", "percentage": 4.2, "label": "vs last quarter" },
+      "insight": "82% of IT staff completed cloud certification program.",
+      "category": "innovation"
+    },
+    {
+      "id": "sustainability",
+      "title": "Sustainability Index",
+      "value": 82.1,
+      "unit": "percent",
+      "suffix": "%",
+      "trend": { "direction": "up", "percentage": 6.8, "label": "vs last quarter" },
+      "insight": "Data center carbon footprint reduced by 22% year-over-year.",
+      "category": "innovation"
+    }
+  ],
+  "portfolioDistribution": [
+    { "name": "AI/ML", "value": 35, "color": "#8B5CF6" },
+    { "name": "Cloud Native", "value": 25, "color": "#3B82F6" },
+    { "name": "Automation", "value": 20, "color": "#10B981" },
+    { "name": "Quantum", "value": 10, "color": "#F59E0B" },
+    { "name": "Sustainability", "value": 10, "color": "#84CC16" }
+  ]
+}

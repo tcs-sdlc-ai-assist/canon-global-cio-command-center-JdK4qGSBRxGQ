@@ -1,0 +1,74 @@
+{
+  "metrics": [
+    {
+      "id": "total-incidents",
+      "title": "Total Incidents (MTD)",
+      "value": 247,
+      "trend": { "direction": "down", "percentage": 12.3, "label": "vs last month" },
+      "insight": "Incident volume decreased due to proactive monitoring improvements.",
+      "category": "operations"
+    },
+    {
+      "id": "mttr",
+      "title": "Mean Time to Resolve",
+      "value": 4.2,
+      "unit": "hours",
+      "trend": { "direction": "down", "percentage": 18.5, "label": "vs last month" },
+      "insight": "Automated triage reduced resolution time by 1.2 hours.",
+      "category": "operations"
+    },
+    {
+      "id": "infrastructure-efficiency",
+      "title": "Infrastructure Efficiency",
+      "value": 94.7,
+      "unit": "percent",
+      "suffix": "%",
+      "trend": { "direction": "up", "percentage": 2.1, "label": "vs last month" },
+      "insight": "Cloud optimization reduced infrastructure costs by 15%.",
+      "category": "operations"
+    },
+    {
+      "id": "global-it-health",
+      "title": "Global IT Health Score",
+      "value": 92,
+      "suffix": "/100",
+      "trend": { "direction": "up", "percentage": 3.4, "label": "vs last month" },
+      "insight": "All regions reporting above 85 health score threshold.",
+      "category": "operations"
+    },
+    {
+      "id": "system-availability",
+      "title": "System Availability",
+      "value": 99.97,
+      "unit": "percent",
+      "suffix": "%",
+      "trend": { "direction": "up", "percentage": 0.02, "label": "vs last month" },
+      "insight": "Exceeded 99.95% SLA target for 6 consecutive months.",
+      "category": "operations"
+    },
+    {
+      "id": "security-posture",
+      "title": "Security Posture",
+      "value": 88,
+      "suffix": "/100",
+      "trend": { "direction": "up", "percentage": 5.1, "label": "vs last quarter" },
+      "insight": "Zero-day vulnerability patching improved to 48-hour SLA.",
+      "category": "operations"
+    },
+    {
+      "id": "digital-transformation",
+      "title": "Digital Transformation",
+      "value": 76,
+      "unit": "percent",
+      "suffix": "%",
+      "trend": { "direction": "up", "percentage": 8.3, "label": "vs last quarter" },
+      "insight": "Cloud migration at 82% completion for Tier 1 applications.",
+      "category": "operations"
+    }
+  ],
+  "incidentTrends": {
+    "months": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+    "incidents": [320, 295, 280, 310, 275, 260, 245, 230, 250, 240, 235, 247],
+    "mttr": [6.5, 6.2, 5.8, 6.0, 5.5, 5.2, 4.8, 4.5, 4.7, 4.4, 4.3, 4.2]
+  }
+}

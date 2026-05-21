@@ -1,0 +1,57 @@
+{
+  "patterns": [
+    {
+      "keywords": ["q4", "board", "presentation"],
+      "response": "The Q4 board presentation is ready for review. Key highlights include: 12.5% revenue growth, 98.7% SLA achievement, and 23.7% increase in AI model deployments. Would you like me to generate a detailed executive summary?"
+    },
+    {
+      "keywords": ["tcs", "partnership", "contract"],
+      "response": "The TCS partnership analysis shows strong performance with 170% ROI and 98.7% SLA achievement. The contract renewal in Q2 2025 presents an opportunity to negotiate outcome-based pricing. I recommend reviewing the expansion opportunity analysis."
+    },
+    {
+      "keywords": ["business", "value", "revenue"],
+      "response": "Business impact metrics show IT-enabled revenue growth of €2.4B (up 12.5%), customer experience score of 8.7/10, and process ROI of 285%. Digital channels now contribute 42% of attributed revenue."
+    },
+    {
+      "keywords": ["americas", "regional", "region"],
+      "response": "Regional performance comparison shows Europe leading at 94%, India (CoE) at 85%, and Americas at 78%. Americas needs attention in innovation (65%) and operational excellence (72%)."
+    },
+    {
+      "keywords": ["innovation", "future", "pipeline"],
+      "response": "Innovation metrics show 47 AI/ML models in production (up 23.7%), pipeline value of €47.3M, and 23 new patent applications. The AI/ML portfolio represents 35% of innovation investment."
+    },
+    {
+      "keywords": ["security", "risk", "compliance"],
+      "response": "Risk and governance metrics show strong positions: Compliance Score 96.2%, Cybersecurity Maturity 87/100, and Data Governance 94.8%. Business Continuity Readiness is at 99.1%."
+    },
+    {
+      "keywords": ["operations", "incidents", "availability"],
+      "response": "Operations metrics show 247 total incidents MTD (down 12.3%), Mean Time to Resolve of 4.2 hours (down 18.5%), and System Availability at 99.97%. Infrastructure efficiency stands at 94.7%."
+    },
+    {
+      "keywords": ["europe", "emea"],
+      "response": "Europe region leads with an overall status of excellent (94%). Key strengths include Risk & Compliance at 96, Business Impact at 94, and Operational Excellence at 91. Innovation is rated good at 88."
+    },
+    {
+      "keywords": ["india", "coe", "center of excellence"],
+      "response": "India (CoE) shows strong performance with an overall status of good (85%). Innovation leads at 92 (excellent), followed by Operational Excellence at 88 and Business Impact at 85."
+    },
+    {
+      "keywords": ["sustainability", "carbon", "green"],
+      "response": "Sustainability Index stands at 82.1% (up 6.8% vs last quarter). Data center carbon footprint has been reduced by 22% year-over-year. Sustainability represents 10% of the innovation portfolio."
+    },
+    {
+      "keywords": ["ai", "machine learning", "ml"],
+      "response": "AI/ML initiatives show strong momentum with 47 models in production (up 23.7%), AI Maturity at 7.2/10, and AI/ML representing 35% of the innovation portfolio. The AI Center of Excellence has 85 data scientists."
+    },
+    {
+      "keywords": ["export", "download", "csv"],
+      "response": "I can help you export dashboard data. Click the Export Data button in the header to download a CSV file containing all current metrics and their trends."
+    },
+    {
+      "keywords": ["help", "what can you do", "capabilities"],
+      "response": "I can help you with insights across several areas: business impact and value creation, operational excellence, risk and governance, innovation portfolio, partnership performance, and regional comparisons. What would you like to explore?"
+    }
+  ],
+  "fallbackResponse": "I can help you with insights across several areas: business impact and value creation, operational excellence, risk and governance, innovation portfolio, and partnership performance. What would you like to explore?"
+}
